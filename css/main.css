@@ -1,0 +1,42 @@
+body {
+  background-image: url('../img/fondo.png');
+  color: rgba(0,0,0,0.85);
+}
+
+.divProfile {
+  margin-top: 75px;
+  text-align: center;
+}
+
+.profile {
+  font-family: "Roboto Thin", serif;
+  border-spacing: 3px;
+  border-radius: 50%;
+  border-color: #969696;
+  border-style: solid;
+}
+
+.navegacion {
+  font-family: Candara, serif;
+}
+
+.navegacion li {
+  display: block;
+  font-size: 20px;
+  color: black;
+}
+
+.parrafos {
+  font-size: 14px;
+  margin-left: 2%;
+  width: 45%;
+  text-align: justify;
+  letter-spacing: 1.9px;
+}
+
+footer div {
+  height: 20px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
